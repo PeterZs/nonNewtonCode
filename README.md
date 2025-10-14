@@ -1,8 +1,13 @@
-# NonNewton Code
+# A Unified Particle-Based Solver for non-Newtonian Behaviors Simulation
+
 This is the code of 2023 TVCG paper entitled
 "A Unified Particle-Based Solver for non-Newtonian Behaviors Simulation".
 
 Authors: Chunlei Li, Yang Gao , Jiayi He, Tianwei Cheng, Shuai Li, Aimin Hao, Hong Qin
+
+<img width="1920" height="1080" alt="nonNewton-teaser" src="https://github.com/user-attachments/assets/7541f0f7-91e7-4a22-8bb5-0b70990c8d12" />
+
+
 
 [project page](https://chunleili.github.io/project-page-nonNewton/)
 
